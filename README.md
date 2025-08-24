@@ -31,6 +31,8 @@ The size-512 construction for \(n=5\) achieves a notably high density, providing
 ## Files
 - `baseline_script.py`: Baseline greedy algorithm (size 176 for n=5).
 - `refined_script.py`: Refined algorithm (size 512 for n=5, extensible to n=6,7).
+
+## Expected Output
 - `n5_size176_set.json`: Full 176-vector set for n=5 (baseline).
 - `n5_size512_set.json`: Full 512-vector set for n=5 (refined).
 
@@ -53,8 +55,6 @@ References:
 [1] Y. Caro, A weighted Erdős–Ginzburg–Ziv theorem, J. Combin. Theory Ser. A 80(2):186–195, 1997.  
 [2] W.D. Gao and A. Geroldinger, Zero-sum problems in finite abelian groups: A survey, Expo. Math. 24(4):337–369, 2006.  
 [3] S.J. Miller et al., Combinatorial and additive number theory problem sessions: 2009–2016 (available online).
-
-<p><a href="https://www.buymeacoffee.com/h1pot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="h1pot" /></a></p><br><br>
 
 
 
