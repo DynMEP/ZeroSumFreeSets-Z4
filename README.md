@@ -47,7 +47,7 @@ The size-512 construction for \(n=5\) achieves a notably high density, providing
 MIT License – feel free to use/extend.
 
 ## Contact
-DynMEP, https://github.com/DynMEP
+Alfonso Davila Vera, adavila@dynmep.com, https://github.com/DynMEP
 
 References:  
 [1] Y. Caro, A weighted Erdős–Ginzburg–Ziv theorem, J. Combin. Theory Ser. A 80(2):186–195, 1997.  
