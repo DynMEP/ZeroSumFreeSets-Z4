@@ -41,7 +41,7 @@ The size-512 construction for \(n=5\) achieves a notably high density, providing
 
 ## Further Reading
 - arXiv preprint: [].
-- MathOverflow post: [].
+- MathOverflow post: https://mathoverflow.net/questions/499530/largest-3-zero-sum-free-subset-in-mathbbz-4-mathbbzn
 
 ## License
 MIT License – feel free to use/extend.
