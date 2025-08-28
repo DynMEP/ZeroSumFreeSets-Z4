@@ -23,7 +23,7 @@ AI-assisted hybrid greedy-genetic algorithm, refined with Grok (xAI), inspired b
 ## How to Run
 1. Clone the repo: `git clone https://github.com/DynMEP/ZeroSumFreeSets-Z4.git`
 2. Install Python 3.8+ and dependencies (optional torch for GPU): `pipx install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121`
-3. Run omni-optimized: `python3 omni_optimized_hybrid_discovery_v5.py --n 7 --mod 4 --profile optimal_odd --runs 1 --save`
+3. Run omni-optimized: `python3 omni_optimized_hybrid_discovery_v5.py --n 6 7 --mod 4 --profile all --runs 20 --jitter 0.15 --sample-size 100000 --workers 8 --save`
 4. Outputs size, density, verification, and saves full set/metadata to JSON.
 
 ## Files
