@@ -50,7 +50,7 @@ AI-assisted hybrid greedy-genetic algorithm, refined with Grok (xAI), inspired b
 
 ## Further Reading
 - arXiv preprint: 
-- MathOverflow post: 
+- MathOverflow post: https://mathoverflow.net/questions/499530/largest-3-zero-sum-free-subset-in-mathbbz-4-mathbbzn
 
 ## License
 MIT License – feel free to use and extend.
