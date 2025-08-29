@@ -59,6 +59,6 @@ MIT License – feel free to use and extend.
 Alfonso Davila Vera, adavila@dynmep.com, https://github.com/DynMEP
 
 ## References
-[1] Y. Caro, A weighted Erdős–Ginzburg–Ziv theorem, J. Combin. Theory Ser. A 80(2):186–195, 1997. 
-[2] W.D. Gao and A. Geroldinger, Zero-sum problems in finite abelian groups: A survey, Expo. Math. 24(4):337–369, 2006. 
-[3] S.J. Miller et al., Combinatorial and additive number theory problem sessions: 2009–2016 (available online). 
+- [1] Y. Caro, A weighted Erdős–Ginzburg–Ziv theorem, J. Combin. Theory Ser. A 80(2):186–195, 1997. 
+- [2] W.D. Gao and A. Geroldinger, Zero-sum problems in finite abelian groups: A survey, Expo. Math. 24(4):337–369, 2006. 
+- [3] S.J. Miller et al., Combinatorial and additive number theory problem sessions: 2009–2016 (available online). 
